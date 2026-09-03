@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.RemoteFunctions.SwordShopSystem:FireServer("Buy", -9999999, "Frostbrand")
